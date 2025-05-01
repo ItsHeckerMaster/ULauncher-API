@@ -237,8 +237,7 @@
       "mcversion": "1.16.3",
       "patch": "G5",
       "type": "HD_U",
-      
-      
+      "__v": 0,
       "filename": "OptiFine_1.16.3_HD_U_G5.jar",
       "forge": "Forge 34.1.42"
     },
