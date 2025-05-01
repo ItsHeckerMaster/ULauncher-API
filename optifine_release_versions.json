@@ -1,0 +1,440 @@
+[
+    {
+      "_id": "5dd42dd55c7d2edcfae499bf",
+      "mcversion": "1.7.2",
+      "patch": "F7",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.7.2_HD_U_F7.jar",
+      "forge": "Forge #1161"
+    },
+    {
+      "_id": "5dd42dd55c7d2edcfae499ae",
+      "mcversion": "1.7.10",
+      "patch": "E7",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.7.10_HD_U_E7.jar",
+      "forge": "Forge #1614"
+    },
+    {
+      "_id": "5dd42dd55c7d2edcfae499a2",
+      "mcversion": "1.8.0",
+      "patch": "I7",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.8.0_HD_U_I7.jar",
+      "forge": "Forge #1577"
+    },
+    {
+      "_id": "5dd42dd55c7d2edcfae49996",
+      "mcversion": "1.8.8",
+      "patch": "I7",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.8.8_HD_U_I7.jar",
+      "forge": "Forge #1655"
+    },
+    {
+      "_id": "61817d2af0198c2deb7b2ad6",
+      "mcversion": "1.8.9",
+      "patch": "pre2",
+      "type": "HD_U_M6",
+      "release": 0,
+      "filename": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
+      "forge": "Forge #1902"
+    },
+    {
+      "_id": "6015a062d052d3ce553e2000",
+      "mcversion": "1.9.0",
+      "patch": "I5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.9.0_HD_U_I5.jar",
+      "forge": "Forge #1938"
+    },
+    {
+      "_id": "5dd42dd55c7d2edcfae4996e",
+      "mcversion": "1.9.2",
+      "patch": "E3",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.9.2_HD_U_E3.jar",
+      "forge": "Forge N/A"
+    },
+    {
+      "_id": "6015a024d052d3ce553e0fc9",
+      "mcversion": "1.9.4",
+      "patch": "I5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.9.4_HD_U_I5.jar",
+      "forge": "Forge #2051"
+    },
+    {
+      "_id": "6012fe04d052d3ce55171c0c",
+      "mcversion": "1.10",
+      "patch": "I5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.10_HD_U_I5.jar",
+      "forge": "Forge #2000"
+    },
+    {
+      "_id": "6012fddad052d3ce55171868",
+      "mcversion": "1.10.2",
+      "patch": "I5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.10.2_HD_U_I5.jar",
+      "forge": "Forge #2511"
+    },
+    {
+      "_id": "6012fdb0d052d3ce551716b6",
+      "mcversion": "1.11",
+      "patch": "G5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.11_HD_U_G5.jar",
+      "forge": "Forge #2199"
+    },
+    {
+      "_id": "6012fcffd052d3ce5516ec51",
+      "mcversion": "1.11.2",
+      "patch": "G5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.11.2_HD_U_G5.jar",
+      "forge": "Forge #2588"
+    },
+    {
+      "_id": "6012fcead052d3ce5516e911",
+      "mcversion": "1.12",
+      "patch": "G5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.12_HD_U_G5.jar",
+      "forge": "Forge #2443"
+    },
+    {
+      "_id": "6012fc55d052d3ce5516dadf",
+      "mcversion": "1.12.1",
+      "patch": "G5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.12.1_HD_U_G5.jar",
+      "forge": "Forge #2485"
+    },
+    {
+      "_id": "605a2ccad052d3ce5582dbdc",
+      "mcversion": "1.12.2",
+      "patch": "pre1",
+      "type": "HD_U_G6",
+      "release": 0,
+      "filename": "preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+      "forge": "Forge #2847"
+    },
+    {
+      "_id": "6499d22e0bbbb25aaf5cf114",
+      "mcversion": "1.18.2",
+      "patch": "H9",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.18.2_HD_U_H9.jar",
+      "forge": "Forge 40.2.9"
+    },
+    {
+      "_id": "5ccc81c2871d9b9623c12823",
+      "mcversion": "1.13",
+      "patch": "E4",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.13_HD_U_E4.jar",
+      "forge": "Forge N/A"
+    },
+    {
+      "_id": "5ccc81c1871d9b9623c127ff",
+      "mcversion": "1.13.1",
+      "patch": "E4",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.13.1_HD_U_E4.jar",
+      "forge": "Forge N/A"
+    },
+    {
+      "_id": "600db69dd052d3ce55d3e481",
+      "mcversion": "1.13.2",
+      "patch": "G5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.13.2_HD_U_G5.jar",
+      "forge": "Forge N/A"
+    },
+    {
+      "_id": "5cec25a970e3210fb1f999d7",
+      "mcversion": "1.14",
+      "patch": "pre6",
+      "type": "HD_U_F1",
+      "release": 0,
+      "filename": "preview_OptiFine_1.14_HD_U_F1_pre6.jar"
+    },
+    {
+      "_id": "600db68ed052d3ce55d3deef",
+      "mcversion": "1.14.2",
+      "patch": "F1",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.14.2_HD_U_F1.jar",
+      "forge": "Forge N/A"
+    },
+    {
+      "_id": "5d3356ad70e3210fb12b7304",
+      "mcversion": "1.14.3",
+      "patch": "F2",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.14.3_HD_U_F2.jar",
+      "forge": "Forge N/A"
+    },
+    {
+      "_id": "600db5f3d052d3ce55d3ba27",
+      "mcversion": "1.14.4",
+      "patch": "G5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.14.4_HD_U_G5.jar",
+      "forge": "Forge 28.2.23"
+    },
+    {
+      "_id": "600f07ded052d3ce55e18068",
+      "mcversion": "1.15.2",
+      "patch": "G6",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.15.2_HD_U_G6.jar",
+      "forge": "Forge 31.2.45"
+    },
+    {
+      "_id": "5f26ff509507202b6816b5fa",
+      "mcversion": "1.16.1",
+      "patch": "G2",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.16.1_HD_U_G2.jar",
+      "forge": "Forge 32.0.98"
+    },
+    {
+      "_id": "5ff27973d052d3ce55053fc4",
+      "mcversion": "1.16.2",
+      "patch": "G5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.16.2_HD_U_G5.jar",
+      "forge": "Forge 33.0.61"
+    },
+    {
+      "_id": "5ff278f0d052d3ce55050913",
+      "mcversion": "1.16.3",
+      "patch": "G5",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.16.3_HD_U_G5.jar",
+      "forge": "Forge 34.1.42"
+    },
+    {
+      "_id": "60329fb2d052d3ce555993d0",
+      "mcversion": "1.16.4",
+      "patch": "G7",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.16.4_HD_U_G7.jar",
+      "forge": "Forge 35.1.37"
+    },
+    {
+      "_id": "60a00c234995ed9b22d48026",
+      "mcversion": "1.16.5",
+      "patch": "G8",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.16.5_HD_U_G8.jar",
+      "forge": "Forge 36.1.0"
+    },
+    {
+      "_id": "60ae8d4f4995ed9b22b9b07b",
+      "mcversion": "21w08b",
+      "patch": "pre12",
+      "type": "HD_U_G9",
+      "release": 0,
+      "filename": "preview_OptiFine_21w08b_HD_U_G9_pre12.jar"
+    },
+    {
+      "_id": "60da0e234995ed9b22762d45",
+      "mcversion": "1.17",
+      "patch": "pre24",
+      "type": "HD_U_G9",
+      "release": 0,
+      "filename": "preview_OptiFine_1.17_HD_U_G9_pre24.jar"
+    },
+    {
+      "_id": "61841fa2f0198c2deb9b8080",
+      "mcversion": "1.17.1",
+      "patch": "H1",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.17.1_HD_U_H1.jar",
+      "forge": "Forge 37.0.103"
+    },
+    {
+      "_id": "61b395a604a9cb832ab80712",
+      "mcversion": "1.18",
+      "patch": "H3",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.18_HD_U_H3.jar",
+      "forge": "Forge 38.0.14"
+    },
+    {
+      "_id": "623e03238a3998ab47b6e292",
+      "mcversion": "1.18.1",
+      "patch": "H6",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.18.1_HD_U_H6.jar",
+      "forge": "Forge #39.1.0"
+    },
+    {
+      "_id": "62e814a38a3998ab47c757ab",
+      "mcversion": "1.19",
+      "patch": "H9",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.19_HD_U_H9.jar",
+      "forge": "Forge 41.1.0"
+    },
+    {
+      "_id": "6307b8a68a3998ab475d1698",
+      "mcversion": "1.19.1",
+      "patch": "H9",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.19.1_HD_U_H9.jar",
+      "forge": "Forge 42.0.9"
+    },
+    {
+      "_id": "6495ddab0bbbb25aafcc5446",
+      "mcversion": "1.19.2",
+      "patch": "I2",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.19.2_HD_U_I2.jar",
+      "forge": "Forge 43.2.14"
+    },
+    {
+      "_id": "642088270bbbb25aaf92eb2b",
+      "mcversion": "1.19.3",
+      "patch": "I3",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.19.3_HD_U_I3.jar",
+      "forge": "Forge 44.1.23"
+    },
+    {
+      "_id": "6431aba50bbbb25aaf2e4005",
+      "mcversion": "1.19.4",
+      "patch": "I4",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.19.4_HD_U_I4.jar",
+      "forge": "Forge 45.1.0"
+    },
+    {
+      "_id": "647cd1220bbbb25aaf789c7e",
+      "mcversion": "1.20-pre4",
+      "patch": "pre1",
+      "type": "HD_U_I5",
+      "release": 0,
+      "filename": "preview_OptiFine_1.20-pre4_HD_U_I5_pre1.jar",
+      "forge": "Forge N/A"
+    },
+    {
+      "_id": "64948c260bbbb25aaf91137c",
+      "mcversion": "1.20",
+      "patch": "pre5",
+      "type": "HD_U_I5",
+      "release": 0,
+      "filename": "preview_OptiFine_1.20_HD_U_I5_pre5.jar",
+      "forge": "Forge 46.0.14"
+    },
+    {
+      "_id": "65847d240bbbb25aafa19003",
+      "mcversion": "1.20.1",
+      "patch": "I6",
+      "type": "HD_U",
+      "release": 0,
+      "filename": "OptiFine_1.20.1_HD_U_I6.jar",
+      "forge": "Forge 47.2.18"
+    },
+    {
+      "_id": "65847d210bbbb25aafa18bd5",
+      "mcversion": "1.20.2",
+      "patch": "pre1",
+      "type": "HD_U_I7",
+      "release": 0,
+      "filename": "preview_OptiFine_1.20.2_HD_U_I7_pre1.jar",
+      "forge": "Forge N/A"
+    },
+    {
+      "_id": "66006a2256d223dd9f3a9c21",
+      "mcversion": "1.20.4",
+      "patch": "pre4",
+      "type": "HD_U_I8",
+      "release": 0,
+      "filename": "preview_OptiFine_1.20.4_HD_U_I8_pre4.jar",
+      "forge": "Forge 49.0.31"
+    },
+    {
+      "_id": "66f844248dd411d8f8f13a14",
+      "mcversion": "1.20.6",
+      "patch": "pre18",
+      "type": "HD_U_J1",
+      "release": 0,
+      "filename": "preview_OptiFine_1.20.6_HD_U_J1_pre18.jar",
+      "forge": "Forge 50.1.19"
+    },
+    {
+      "_id": "66d8a0258dd411d8f8ebbaa2",
+      "type": "HD_U_J1",
+      "patch": "pre9",
+      "mcversion": "1.21",
+      "release": 0,
+      "filename": "preview_OptiFine_1.21_HD_U_J1_pre9.jar",
+      "forge": "Forge N/A"
+    },
+    {
+      "_id": "66f2fe228dd411d8f86fc783",
+      "type": "HD_U",
+      "mcversion": "1.21.1",
+      "patch": "J1",
+      "release": 0,
+      "filename": "OptiFine_1.21.1_HD_U_J1.jar",
+      "forge": "Forge 52.0.16"
+    },
+    {
+      "_id": "675098a6c93eef3cbd14f937",
+      "patch": "J2",
+      "type": "HD_U",
+      "mcversion": "1.21.3",
+      "release": 0,
+      "filename": "OptiFine_1.21.3_HD_U_J2.jar",
+      "forge": "Forge 53.0.25"
+    },
+    {
+      "_id": "67b76da2c93eef3cbd2e442d",
+      "patch": "pre2",
+      "mcversion": "1.21.4",
+      "type": "HD_U_J3",
+      "release": 0,
+      "filename": "OptiFine_1.21.4_HD_U_J3.jar",
+      "forge": "Forge 54.1.0"
+    }
+]
