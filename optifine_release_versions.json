@@ -4,7 +4,7 @@
       "mcversion": "1.7.2",
       "patch": "F7",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.7.2_HD_U_F7.jar",
       "forge": "Forge #1161"
     },
@@ -13,7 +13,7 @@
       "mcversion": "1.7.10",
       "patch": "E7",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.7.10_HD_U_E7.jar",
       "forge": "Forge #1614"
     },
@@ -22,7 +22,7 @@
       "mcversion": "1.8.0",
       "patch": "I7",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.8.0_HD_U_I7.jar",
       "forge": "Forge #1577"
     },
@@ -31,7 +31,7 @@
       "mcversion": "1.8.8",
       "patch": "I7",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.8.8_HD_U_I7.jar",
       "forge": "Forge #1655"
     },
@@ -40,7 +40,7 @@
       "mcversion": "1.8.9",
       "patch": "pre2",
       "type": "HD_U_M6",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
       "forge": "Forge #1902"
     },
@@ -49,7 +49,7 @@
       "mcversion": "1.9.0",
       "patch": "I5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.9.0_HD_U_I5.jar",
       "forge": "Forge #1938"
     },
@@ -58,7 +58,7 @@
       "mcversion": "1.9.2",
       "patch": "E3",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.9.2_HD_U_E3.jar",
       "forge": "Forge N/A"
     },
@@ -67,7 +67,7 @@
       "mcversion": "1.9.4",
       "patch": "I5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.9.4_HD_U_I5.jar",
       "forge": "Forge #2051"
     },
@@ -76,7 +76,7 @@
       "mcversion": "1.10",
       "patch": "I5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.10_HD_U_I5.jar",
       "forge": "Forge #2000"
     },
@@ -85,7 +85,7 @@
       "mcversion": "1.10.2",
       "patch": "I5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.10.2_HD_U_I5.jar",
       "forge": "Forge #2511"
     },
@@ -94,7 +94,7 @@
       "mcversion": "1.11",
       "patch": "G5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.11_HD_U_G5.jar",
       "forge": "Forge #2199"
     },
@@ -103,7 +103,7 @@
       "mcversion": "1.11.2",
       "patch": "G5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.11.2_HD_U_G5.jar",
       "forge": "Forge #2588"
     },
@@ -112,7 +112,7 @@
       "mcversion": "1.12",
       "patch": "G5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.12_HD_U_G5.jar",
       "forge": "Forge #2443"
     },
@@ -121,7 +121,7 @@
       "mcversion": "1.12.1",
       "patch": "G5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.12.1_HD_U_G5.jar",
       "forge": "Forge #2485"
     },
@@ -130,7 +130,7 @@
       "mcversion": "1.12.2",
       "patch": "pre1",
       "type": "HD_U_G6",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
       "forge": "Forge #2847"
     },
@@ -139,7 +139,7 @@
       "mcversion": "1.18.2",
       "patch": "H9",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.18.2_HD_U_H9.jar",
       "forge": "Forge 40.2.9"
     },
@@ -148,7 +148,7 @@
       "mcversion": "1.13",
       "patch": "E4",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.13_HD_U_E4.jar",
       "forge": "Forge N/A"
     },
@@ -157,7 +157,7 @@
       "mcversion": "1.13.1",
       "patch": "E4",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.13.1_HD_U_E4.jar",
       "forge": "Forge N/A"
     },
@@ -166,7 +166,7 @@
       "mcversion": "1.13.2",
       "patch": "G5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.13.2_HD_U_G5.jar",
       "forge": "Forge N/A"
     },
@@ -175,7 +175,7 @@
       "mcversion": "1.14",
       "patch": "pre6",
       "type": "HD_U_F1",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_1.14_HD_U_F1_pre6.jar"
     },
     {
@@ -183,7 +183,7 @@
       "mcversion": "1.14.2",
       "patch": "F1",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.14.2_HD_U_F1.jar",
       "forge": "Forge N/A"
     },
@@ -192,7 +192,7 @@
       "mcversion": "1.14.3",
       "patch": "F2",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.14.3_HD_U_F2.jar",
       "forge": "Forge N/A"
     },
@@ -201,7 +201,7 @@
       "mcversion": "1.14.4",
       "patch": "G5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.14.4_HD_U_G5.jar",
       "forge": "Forge 28.2.23"
     },
@@ -210,7 +210,7 @@
       "mcversion": "1.15.2",
       "patch": "G6",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.15.2_HD_U_G6.jar",
       "forge": "Forge 31.2.45"
     },
@@ -219,7 +219,7 @@
       "mcversion": "1.16.1",
       "patch": "G2",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.16.1_HD_U_G2.jar",
       "forge": "Forge 32.0.98"
     },
@@ -228,7 +228,7 @@
       "mcversion": "1.16.2",
       "patch": "G5",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.16.2_HD_U_G5.jar",
       "forge": "Forge 33.0.61"
     },
@@ -237,7 +237,8 @@
       "mcversion": "1.16.3",
       "patch": "G5",
       "type": "HD_U",
-      "release": 0,
+      
+      
       "filename": "OptiFine_1.16.3_HD_U_G5.jar",
       "forge": "Forge 34.1.42"
     },
@@ -246,7 +247,7 @@
       "mcversion": "1.16.4",
       "patch": "G7",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.16.4_HD_U_G7.jar",
       "forge": "Forge 35.1.37"
     },
@@ -255,7 +256,7 @@
       "mcversion": "1.16.5",
       "patch": "G8",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.16.5_HD_U_G8.jar",
       "forge": "Forge 36.1.0"
     },
@@ -264,7 +265,7 @@
       "mcversion": "21w08b",
       "patch": "pre12",
       "type": "HD_U_G9",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_21w08b_HD_U_G9_pre12.jar"
     },
     {
@@ -272,7 +273,7 @@
       "mcversion": "1.17",
       "patch": "pre24",
       "type": "HD_U_G9",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_1.17_HD_U_G9_pre24.jar"
     },
     {
@@ -280,7 +281,7 @@
       "mcversion": "1.17.1",
       "patch": "H1",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.17.1_HD_U_H1.jar",
       "forge": "Forge 37.0.103"
     },
@@ -289,7 +290,7 @@
       "mcversion": "1.18",
       "patch": "H3",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.18_HD_U_H3.jar",
       "forge": "Forge 38.0.14"
     },
@@ -298,7 +299,7 @@
       "mcversion": "1.18.1",
       "patch": "H6",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.18.1_HD_U_H6.jar",
       "forge": "Forge #39.1.0"
     },
@@ -307,7 +308,7 @@
       "mcversion": "1.19",
       "patch": "H9",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.19_HD_U_H9.jar",
       "forge": "Forge 41.1.0"
     },
@@ -316,7 +317,7 @@
       "mcversion": "1.19.1",
       "patch": "H9",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.19.1_HD_U_H9.jar",
       "forge": "Forge 42.0.9"
     },
@@ -325,7 +326,7 @@
       "mcversion": "1.19.2",
       "patch": "I2",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.19.2_HD_U_I2.jar",
       "forge": "Forge 43.2.14"
     },
@@ -334,7 +335,7 @@
       "mcversion": "1.19.3",
       "patch": "I3",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.19.3_HD_U_I3.jar",
       "forge": "Forge 44.1.23"
     },
@@ -343,7 +344,7 @@
       "mcversion": "1.19.4",
       "patch": "I4",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.19.4_HD_U_I4.jar",
       "forge": "Forge 45.1.0"
     },
@@ -352,7 +353,7 @@
       "mcversion": "1.20-pre4",
       "patch": "pre1",
       "type": "HD_U_I5",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_1.20-pre4_HD_U_I5_pre1.jar",
       "forge": "Forge N/A"
     },
@@ -361,7 +362,7 @@
       "mcversion": "1.20",
       "patch": "pre5",
       "type": "HD_U_I5",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_1.20_HD_U_I5_pre5.jar",
       "forge": "Forge 46.0.14"
     },
@@ -370,7 +371,7 @@
       "mcversion": "1.20.1",
       "patch": "I6",
       "type": "HD_U",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.20.1_HD_U_I6.jar",
       "forge": "Forge 47.2.18"
     },
@@ -379,7 +380,7 @@
       "mcversion": "1.20.2",
       "patch": "pre1",
       "type": "HD_U_I7",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_1.20.2_HD_U_I7_pre1.jar",
       "forge": "Forge N/A"
     },
@@ -388,7 +389,7 @@
       "mcversion": "1.20.4",
       "patch": "pre4",
       "type": "HD_U_I8",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_1.20.4_HD_U_I8_pre4.jar",
       "forge": "Forge 49.0.31"
     },
@@ -397,7 +398,7 @@
       "mcversion": "1.20.6",
       "patch": "pre18",
       "type": "HD_U_J1",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_1.20.6_HD_U_J1_pre18.jar",
       "forge": "Forge 50.1.19"
     },
@@ -406,7 +407,7 @@
       "type": "HD_U_J1",
       "patch": "pre9",
       "mcversion": "1.21",
-      "release": 0,
+      "__v": 0,
       "filename": "preview_OptiFine_1.21_HD_U_J1_pre9.jar",
       "forge": "Forge N/A"
     },
@@ -415,7 +416,7 @@
       "type": "HD_U",
       "mcversion": "1.21.1",
       "patch": "J1",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.21.1_HD_U_J1.jar",
       "forge": "Forge 52.0.16"
     },
@@ -424,7 +425,7 @@
       "patch": "J2",
       "type": "HD_U",
       "mcversion": "1.21.3",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.21.3_HD_U_J2.jar",
       "forge": "Forge 53.0.25"
     },
@@ -433,7 +434,7 @@
       "patch": "pre2",
       "mcversion": "1.21.4",
       "type": "HD_U_J3",
-      "release": 0,
+      "__v": 0,
       "filename": "OptiFine_1.21.4_HD_U_J3.jar",
       "forge": "Forge 54.1.0"
     }
